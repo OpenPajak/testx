@@ -1,0 +1,205 @@
+{
+  "screen": {
+    "width": 5160,
+    "height": 2160,
+    "availWidth": 5160,
+    "availHeight": 2160,
+    "colorDepth": 24,
+    "pixelDepth": 24,
+    "availTop": 0,
+    "availLeft": 2880,
+    "orientationType": "landscape-primary",
+    "isExtended": true,
+    "orientationAngle": 0,
+    "devicePixelRatio": 1,
+    "innerWidth": 2038,
+    "innerHeight": 1026,
+    "outerWidth": 2040,
+    "outerHeight": 1115
+  },
+  "intl": {
+    "dateTimeFormat": "Friday, August 30, 2024 at 6:27:41 PM Western Indonesia Time",
+    "hourCycle": "h12",
+    "calendar": "gregory",
+    "day": "numeric",
+    "locale": "en-US",
+    "month": "numeric",
+    "numberingSystem": "latn",
+    "timezone": "Asia/Jakarta",
+    "year": "numeric"
+  },
+  "navigator": {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    "appVersion": "5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    "appName": "Netscape",
+    "appCodeName": "Mozilla",
+    "product": "Gecko",
+    "productSub": "20030107",
+    "vendor": "Google Inc.",
+    "vendorSub": "",
+    "platform": "Linux x86_64",
+    "hardwareConcurrency": 12,
+    "deviceMemory": 8,
+    "language": "en-US",
+    "languages": [
+      "en-US"
+    ],
+    "onLine": true,
+    "doNotTrack": null,
+    "cookieEnabled": true,
+    "maxTouchPoints": 0,
+    "webdriver": false,
+    "pdfViewerEnabled": true
+  },
+  "uaData": {
+    "apiStatus": true,
+    "brands": [
+      {
+        "brand": "Chromium",
+        "version": "127"
+      },
+      {
+        "brand": "Not)A;Brand",
+        "version": "99"
+      }
+    ],
+    "mobile": false,
+    "platform": "Linux",
+    "platformVersion": "6.10.6",
+    "architecture": "x86",
+    "bitness": "64",
+    "wow64": false,
+    "model": "",
+    "uaFullVersion": "127.0.6533.57",
+    "fullVersionList": [
+      {
+        "brand": "Chromium",
+        "version": "127.0.6533.57"
+      },
+      {
+        "brand": "Not)A;Brand",
+        "version": "99.0.0.0"
+      }
+    ]
+  },
+  "plugins": {
+    "apiStatus": true,
+    "plugins": [
+      {
+        "name": "PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "length": 2
+      },
+      {
+        "name": "Chrome PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "length": 2
+      },
+      {
+        "name": "Chromium PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "length": 2
+      },
+      {
+        "name": "Microsoft Edge PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "length": 2
+      },
+      {
+        "name": "WebKit built-in PDF",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "length": 2
+      }
+    ]
+  },
+  "battery": {
+    "apiStatus": true,
+    "charging": true,
+    "chargingTime": 0,
+    "dischargingTime": null,
+    "level": 1
+  },
+  "network": {
+    "apiStatus": true,
+    "effectiveType": "4g",
+    "downlink": 1.65,
+    "rtt": 50,
+    "saveData": false
+  },
+  "bluetooth": {
+    "apiStatus": false
+  },
+  "audio": {
+    "apiStatus": true,
+    "state": "suspended",
+    "sampleRate": 48000,
+    "maxChannelCount": 2,
+    "numberOfInputs": 1,
+    "numberOfOutputs": 0,
+    "channelCount": 2,
+    "channelCountMode": "explicit",
+    "channelInterpretation": "speakers",
+    "fftSize": 2048,
+    "frequencyBinCount": 1024,
+    "minDecibels": -100,
+    "maxDecibels": -30,
+    "smoothingTimeConstant": 0.8
+  },
+  "speech": {
+    "apiStatus": true,
+    "voices": []
+  },
+  "systemColors": {
+    "ActiveBorder": "rgb(0, 0, 0)",
+    "ActiveCaption": "rgb(0, 0, 0)",
+    "ActiveText": "rgb(0, 0, 238)",
+    "AppWorkspace": "rgb(255, 255, 255)",
+    "Background": "rgb(255, 255, 255)",
+    "ButtonBorder": "rgb(0, 0, 0)",
+    "ButtonFace": "rgb(239, 239, 239)",
+    "ButtonHighlight": "rgb(239, 239, 239)",
+    "ButtonShadow": "rgb(239, 239, 239)",
+    "ButtonText": "rgb(0, 0, 0)",
+    "Canvas": "rgb(255, 255, 255)",
+    "CanvasText": "rgb(0, 0, 0)",
+    "CaptionText": "rgb(0, 0, 0)",
+    "Field": "rgb(255, 255, 255)",
+    "FieldText": "rgb(0, 0, 0)",
+    "GrayText": "rgb(128, 128, 128)",
+    "Highlight": "rgba(0, 65, 198, 0.8)",
+    "HighlightText": "rgb(255, 255, 255)",
+    "InactiveBorder": "rgb(0, 0, 0)",
+    "InactiveCaption": "rgb(255, 255, 255)",
+    "InactiveCaptionText": "rgb(128, 128, 128)",
+    "InfoBackground": "rgb(255, 255, 255)",
+    "InfoText": "rgb(0, 0, 0)",
+    "LinkText": "rgb(0, 0, 238)",
+    "Mark": "rgb(255, 255, 0)",
+    "MarkText": "rgb(0, 0, 0)",
+    "Menu": "rgb(255, 255, 255)",
+    "MenuText": "rgb(0, 0, 0)",
+    "Scrollbar": "rgb(255, 255, 255)",
+    "ThreeDDarkShadow": "rgb(0, 0, 0)",
+    "ThreeDFace": "rgb(239, 239, 239)",
+    "ThreeDHighlight": "rgb(0, 0, 0)",
+    "ThreeDLightShadow": "rgb(0, 0, 0)",
+    "ThreeDShadow": "rgb(0, 0, 0)",
+    "VisitedText": "rgb(0, 0, 238)",
+    "Window": "rgb(255, 255, 255)",
+    "WindowFrame": "rgb(0, 0, 0)",
+    "WindowText": "rgb(0, 0, 0)"
+  },
+  "systemFonts": {
+    "caption": "16px Arial",
+    "icon": "16px Arial",
+    "menu": "16px Arial",
+    "message-box": "16px Arial",
+    "small-caption": "16px Arial",
+    "status-bar": "16px Arial"
+  }
+}
